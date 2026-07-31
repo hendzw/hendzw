@@ -1,20 +1,15 @@
 # Olá 👋, meu nome é Hendriw!
 
-🚀 **Desenvolvedor back-end | Java + Spring Boot**  
-🎓 Técnico em Informática para Internet  
-🇧🇷 Brasil
-
 Eu construo **sistemas Web** e **APIs**, e atualmente estou buscando
 </br>
 ampliar meus conhecimentos em **desenvolvimento de software**.
 
----
-
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 ### Front-end
 
 <img 
+  align="left"
   alt="HTML"
   title="HTML"
   width="30px"
@@ -22,6 +17,7 @@ ampliar meus conhecimentos em **desenvolvimento de software**.
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img
+  align="left"
   alt="CSS"
   title="CSS"
   width="30px"
@@ -29,6 +25,7 @@ ampliar meus conhecimentos em **desenvolvimento de software**.
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 <img 
+  align="left"
   alt="JavaScript"
   title="JavaScript"
   width="30px"
@@ -36,6 +33,7 @@ ampliar meus conhecimentos em **desenvolvimento de software**.
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 <img 
+  align="left"
   alt="Bootstrap"
   title="Bootstrap"
   width="30px"
@@ -43,6 +41,7 @@ ampliar meus conhecimentos em **desenvolvimento de software**.
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
 />
 <img 
+  align="left"
   alt="Thymeleaf"
   title="Thymeleaf"
   width="30px"
@@ -54,6 +53,7 @@ ampliar meus conhecimentos em **desenvolvimento de software**.
 ### Back-end
 
 <img
+  align="left"
   alt="Java"
   title="Java"
   width="30px"
@@ -61,6 +61,7 @@ ampliar meus conhecimentos em **desenvolvimento de software**.
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img
+  align="left"
   alt="Spring Boot"
   title="Spring Boot"
   width="30px"
@@ -68,6 +69,7 @@ ampliar meus conhecimentos em **desenvolvimento de software**.
   src="icons/spring-boot.svg"
 />
 <img
+  align="left"
   alt="Spring Security"
   title="Spring Security"
   width="30px"
@@ -75,6 +77,7 @@ ampliar meus conhecimentos em **desenvolvimento de software**.
   src="icons/spring-security.svg"
 />
 <img
+  align="left"
   alt="JSON Web Token"
   title="JSON Web Token"
   width="30px"
@@ -82,6 +85,7 @@ ampliar meus conhecimentos em **desenvolvimento de software**.
   src="icons/jwt.svg"
 />
 <img 
+  align="left"
   alt="Postgresql"
   title="Postgresql"
   width="30px"
@@ -93,6 +97,7 @@ ampliar meus conhecimentos em **desenvolvimento de software**.
 ### DevOps & Ferramentas
 
 <img 
+  align="left"
   alt="Git"
   title="Git"
   width="30px"
@@ -100,6 +105,7 @@ ampliar meus conhecimentos em **desenvolvimento de software**.
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 <img
+  align="left"
   alt="GitHub"
   title="GitHub"
   width="30px"
@@ -107,6 +113,7 @@ ampliar meus conhecimentos em **desenvolvimento de software**.
   src="https://cdn.simpleicons.org/github/808080"
 />
 <img 
+  align="left"
   alt="Postman"
   title="Postman"
   width="30px"
@@ -114,6 +121,7 @@ ampliar meus conhecimentos em **desenvolvimento de software**.
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
 <img 
+  align="left"
   alt="Docker"
   title="Docker"
   width="30px"
@@ -121,16 +129,16 @@ ampliar meus conhecimentos em **desenvolvimento de software**.
   src="icons/docker.svg"
 />
 <img 
+  align="left"
   alt="Figma"
   title="Figma"
   width="30px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
+</br>
 
----
-
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <img
   align="left"
