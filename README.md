@@ -137,6 +137,7 @@ ampliar meus conhecimentos em **desenvolvimento de software**.
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
 </br>
+</br>
 
 ## Estatísticas do GitHub
 
