@@ -1,11 +1,12 @@
 # Olá 👋, meu nome é Hendriw!
 
 🚀 **Desenvolvedor back-end | Java + Spring Boot**  
+🎓 Técnico em Informática para Internet  
 🇧🇷 Brasil
 
-Eu construo **sistemas Web** e **APIs**.
+Eu construo **sistemas Web** e **APIs**, e atualmente estou buscando
 </br>
-Atualmente estou focado em ampliar meu conhecimento no **desenvolvimento de softwares**.
+ampliar meus conhecimentos em **desenvolvimento de software**.
 
 ---
 
@@ -74,8 +75,8 @@ Atualmente estou focado em ampliar meu conhecimento no **desenvolvimento de soft
   src="icons/spring-security.svg"
 />
 <img
-  alt="JASON Web Token"
-  title="JASON Web Token"
+  alt="JSON Web Token"
+  title="JSON Web Token"
   width="30px"
   style="padding-right: 10px"
   src="icons/jwt.svg"
@@ -87,6 +88,7 @@ Atualmente estou focado em ampliar meu conhecimento no **desenvolvimento de soft
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
+</br>
 
 ### DevOps & Ferramentas
 
@@ -97,10 +99,13 @@ Atualmente estou focado em ampliar meu conhecimento no **desenvolvimento de soft
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-  <img src="https://cdn.simpleicons.org/github/black" alt="GitHub" width="30" style="padding-right: 10px">
-</picture>
+<img
+  alt="GitHub"
+  title="GitHub"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.simpleicons.org/github/808080"
+/>
 <img 
   alt="Postman"
   title="Postman"
